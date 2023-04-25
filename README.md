@@ -1,5 +1,5 @@
 # ROUTER_1*3
-Router : A router is a networking device that forwards data packets between computer networks. 
+__Router__ : A router is a networking device that forwards data packets between computer networks. 
 
 Routers are used to connect multiple networks together and to direct network traffic between them. 
 They operate at the network layer of the OSI model, which means they use IP addresses to identify and route packets.

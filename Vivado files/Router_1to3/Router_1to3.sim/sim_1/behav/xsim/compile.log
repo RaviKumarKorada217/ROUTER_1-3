@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado projects/Router_1to3/Router_1to3.srcs/sources_1/new/REGISTER0.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module REGISTER
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado projects/Router_1to3/Router_1to3.srcs/sources_1/new/TOP_MODULE.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TOP_MODULE
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/vivado projects/Router_1to3/Router_1to3.srcs/sources_1/new/TOP_MODULE_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TOP_MODULE_tb
